@@ -20,4 +20,5 @@ public class basicCalculator {
         System.out.println("Name: " + name);
         System.out.println("Gross pay: $" + String.format("%.2f", grossPay));
     }
+
 }
